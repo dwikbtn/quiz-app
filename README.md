@@ -22,4 +22,4 @@ atau juga bisa menggunakan versi live demo.
 
 ## Live Demo
 
-Untuk live demo bisa mengunjungi link berikut [GitHub Pages](https://pages.github.com/)
+Untuk live demo bisa mengunjungi link berikut: [Live Demo](https://sad-mahavira-915df4.netlify.app/)
